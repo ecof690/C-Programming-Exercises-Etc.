@@ -3,7 +3,7 @@
 --		from unsorted part and putting it at the beginning.                                    --
 
 
---		This example prepared for integer arrays.
+--		This example prepared for integer arrays.					       --
 --		Still, it can be easily transform to other types like double.                          --
 */
 
