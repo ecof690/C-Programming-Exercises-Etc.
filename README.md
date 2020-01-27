@@ -6,3 +6,10 @@
 -> There will be also some small projects that i will be trying to learn new things.
 
 -> I hope you can find useful things for yourselves. ^^
+#
+### *Sorting Algorithms*
+  * [Bubble Sort](/Bubble-Sort-Algorithm.c)
+  * [Selection Sort](/Selection-Sort-Algorithm.c)
+  
+### *Other Things*
+  * [Caesar Cipher](/Caesar-Cipher-Algorithm.c)
