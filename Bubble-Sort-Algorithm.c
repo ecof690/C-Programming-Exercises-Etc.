@@ -3,7 +3,7 @@
 --		compares adjacent elements and swaps them if they are in the wrong order.              --
 
 
---		This example prepared for integer arrays.
+--		This example prepared for integer arrays.					       --
 --		Still, it can be easily transform to other types like double.                          --
 */
 
