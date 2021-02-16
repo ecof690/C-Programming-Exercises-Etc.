@@ -11,7 +11,7 @@
   * [Bubble Sort](/Bubble-Sort-Algorithm.c)
   * [Selection Sort](/Selection-Sort-Algorithm.c)
   * [Insertion Sort](/Insertion-Sort-Algorithm.c)
-  * [Merge Sort](/MergeSort-Algorithm.c)
+  * [Merge Sort](/Merge-Sort-Algorithm.c)
   
 ### *Other Things*
   * [Caesar Cipher](/Caesar-Cipher-Algorithm.c)
